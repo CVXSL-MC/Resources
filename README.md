@@ -10,4 +10,4 @@ These are all of the resource packs that I use.
 
 #### 1.17.1
 
-*coming soon!*
+- [JonnyIsland](https://github.com/CVXSL-MC/Resource-Packs/releases/tag/JonnyIsland)
