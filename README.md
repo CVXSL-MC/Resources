@@ -1,6 +1,6 @@
-# Mizunos
+# Resource Packs
 
-We use these texture packs on the "**Miss Queen**" Java Realm.
+These are all of the resource packs that I use.
 
 ## Releases
 
