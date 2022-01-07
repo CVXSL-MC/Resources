@@ -11,3 +11,7 @@ These are all of the resource packs that I use.
 #### 1.17.1
 
 - [JonnyIsland](https://github.com/CVXSL-MC/Resource-Packs/releases/tag/JonnyIsland)
+
+#### 1.12.2
+
+- *coming soon!*
