@@ -1,6 +1,6 @@
 # Resources
 
-These are all of the resource packs that I use.
+A library of Resource Packs, Mod Packs, and more.
 
 ## Releases
 
