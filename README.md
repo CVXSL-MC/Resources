@@ -6,8 +6,8 @@ A library of Resource Packs, Mod Packs, and more for Minecraft Java Edition.
 
 ## Editions
 
-- [1.12.2]()
-- [1.18.1]()
+- [1.12.2](https://github.com/CVXSL-MC/Resources/blob/main/README.md#1122)
+- [1.18.1](https://github.com/CVXSL-MC/Resources/blob/main/README.md#1181)
 
 #### 1.18.1
 
