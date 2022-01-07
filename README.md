@@ -1,6 +1,6 @@
 # Resources
 
-A library of Resource Packs, Mod Packs, and more.
+A library of Resource Packs, Mod Packs, and more for Minecraft Java Edition.
 
 ## Releases
 
