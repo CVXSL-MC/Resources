@@ -14,4 +14,4 @@ These are all of the resource packs that I use.
 
 #### 1.12.2
 
-- *coming soon!*
+- [Wynncraft Mods](https://github.com/CVXSL-MC/Resource-Packs/releases/tag/Wynncraft-v1.12.2)
