@@ -2,6 +2,8 @@
 
 A library of Resource Packs, Mod Packs, and more for Minecraft Java Edition.
 
+[![Coverage badge](https://raw.githubusercontent.com/SVG-Edit/svgedit/master/badges/coverage-badge.svg?sanitize=true)](badges/coverage-badge.svg)
+
 ## Releases
 
 ## Editions
