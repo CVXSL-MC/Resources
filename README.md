@@ -6,7 +6,7 @@ A library of Resource Packs, Mod Packs, and more for Minecraft Java Edition.
 
 ## Editions
 
-- [1.122]()
+- [1.12.2]()
 - [1.18.1]()
 
 #### 1.18.1
